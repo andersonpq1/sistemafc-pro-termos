@@ -50,7 +50,7 @@ A compra para remover anúncios não constitui um serviço de backup ou armazena
 
 O tratamento de dados pessoais relacionado ao aplicativo é descrito na Política de Privacidade:
 
-https://bio.site/politicaprivacidadefcpro
+[Política de Privacidade do SistemaFC PRO](https://bio.site/politicaprivacidadefcpro)
 
 Ao cadastrar informações de clientes, funcionários ou outras pessoas, o usuário deve observar a legislação de proteção de dados aplicável, fornecer as informações necessárias aos titulares e adotar medidas adequadas de segurança.
 
@@ -88,6 +88,4 @@ Nenhuma disposição destes termos representa renúncia a direitos assegurados p
 
 13. CONTATO
 
-Responsável: Anderson Fernandes Costa.
-Aplicativo: SistemaFC PRO.
-E-mail de atendimento: andersonpq337@gmail.com.
+E-mail de atendimento: [andersonpq337@gmail.com](mailto:andersonpq337@gmail.com).
